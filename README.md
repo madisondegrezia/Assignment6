@@ -3,7 +3,7 @@
 ## Table of contents  
 * [Objective](#Objective)
 * [Task Description](#Task-description)
-* [Postman](#Postman-link)
+* [Postman](#Postman)
 
 ## Objective
 Design and build your own RESTful API using Node.js and Express. The API should handle CRUD operations 
